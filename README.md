@@ -26,8 +26,8 @@ ResNet and Unet were used to arrive at the final solution and the model was trai
 ### OUTPUT
 Test(MOLA dataset):
 ![](images/30epochs2.jpeg)
-![](images/30epochs4.jpeg)
+![](images/30epochs4.jpeg)\
 
-MCC images:
+MCC images:\
 ![](images/40epoch900imgs.JPG)
 
