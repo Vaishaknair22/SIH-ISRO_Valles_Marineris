@@ -24,6 +24,9 @@ ResNet and Unet were used to arrive at the final solution and the model was trai
 ### Parameters
 ![](images/parameters.JPG)
 
+### Legend
+![](images/legenkmshort.jpg)\
+
 ### OUTPUT
 Test(MOLA dataset):
 ![](images/30epochs2.jpeg)
