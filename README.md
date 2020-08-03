@@ -22,6 +22,7 @@ ResNet and Unet were used to arrive at the final solution and the model was trai
 ![alt text](images/proposed_sys_arch.png)
 
 ### Parameters
+![](images/parameters.JPG)
 
 ### OUTPUT
 Test(MOLA dataset):
@@ -29,5 +30,7 @@ Test(MOLA dataset):
 ![](images/30epochs4.jpeg)\
 
 MCC images:\
-![](images/40epoch900imgs.JPG)
+![](images/40epoch900imgs.JPG)\
+
+![](images/graphs.JPG)
 
