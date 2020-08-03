@@ -12,7 +12,7 @@ The idea is to create a Depth Estimation System that uses multiple techniques to
 CNN and Pose Estimation were used initially for estimating depth the model that was used was pre trained on KITTI dataset for monocular depth prediction.
 |INPUT     |OUTPUT|
 :-------------------------:|:-------------------------:
-![](images/inputmono plus stereo_1024x320.jpg) | ![](images/outputmono plus stereo_1024x320.jpeg)
+![](images/inputmono+stereo_1024x320.jpg) | ![](images/outputmono+stereo_1024x320.jpg)
 ![](images/inputmono+stereo.jpg) | ![](images/outputmono+stereo.jpeg)
 
 ## Proposed System Architecture
