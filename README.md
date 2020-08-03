@@ -1,3 +1,5 @@
+# model_mcc_test.ipynb is the final code
+
 # NM392_SATTVA
 
 Organization name: ISRO\
