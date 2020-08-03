@@ -15,5 +15,9 @@ CNN and Pose Estimation were used initially for estimating depth the model that 
 ![](images/inputmono+stereo_1024x320.jpg) | ![](images/outputmono+stereo_1024x320.jpg)
 ![](images/inputmono+stereo.jpg) | ![](images/outputmono+stereo.jpeg)
 
-## Proposed System Architecture
+## Final Solution
+ResNet and Unet were used to arrive at the final solution and the model was trained using the data collected by nasas missions.the dataset that was used consisted of the images of the martian surface and the corresponding depth map which belonged to MOLA mission the collected data was augmented thus the dataset comprises of 1770 images.
+
+
+### Proposed System Architecture
 ![alt text](images/proposed_sys_arch.png)
