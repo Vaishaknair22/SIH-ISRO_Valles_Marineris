@@ -25,15 +25,15 @@ ResNet and Unet were used to arrive at the final solution and the model was trai
 ![](images/parameters.JPG)
 
 ### Legend
-![](images/legenkmshort.jpg)\
+![](images/legenkmshort.jpg)
 
 ### OUTPUT
 Test(MOLA dataset):
 ![](images/30epochs2.jpeg)
-![](images/30epochs4.jpeg)\
+![](images/30epochs4.jpeg)
 
 MCC images:\
-![](images/40epoch900imgs.JPG)\
+![](images/40epoch900imgs.JPG)
 
 ![](images/graphs.JPG)
 
